@@ -7,7 +7,7 @@ DerbyCon 2018: When Macs Come Under ATT&CK ([Slides](https://github.com/richierc
 
 Objective By The Sea 2018: When Macs Come Under ATT&CK
 
-Objective By The Sea 2019: Detecting macOS Compromise with Venator [Slides](https://drive.google.com/open?id=1Jf8a9e2Ov4LviiUW4zzGID2Z7CkNl8Go)
+Objective By The Sea 2019: Detecting macOS Compromise with Venator ([Slides](https://drive.google.com/open?id=1Jf8a9e2Ov4LviiUW4zzGID2Z7CkNl8Go))
 
 # Publications
 SANS Reading Room: [Detecting Malicious SMB Activity Using Bro](https://www.sans.org/reading-room/whitepapers/detection/detecting-malicious-smb-activity-bro-37472)
